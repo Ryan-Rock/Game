@@ -1,0 +1,123 @@
+body{
+	width: 100%;
+}
+.c1{
+	background: url(../czimg/1.png) ;
+	background-position: -100px;
+	width: 100%;
+	height: 470px;
+}
+.container2{
+	width: 100%;
+	
+}
+.c2{
+	width: 100%;
+	background-color: #211510;
+}
+.c2 button{
+	height: 80px;
+	line-height: 80px;
+	background-color: #211510;
+	border: none;
+	color: orange;
+	width: 220px;
+}
+.c3{
+	width: 100%;
+	background: url(../czimg/2.png);
+	height: 600px;
+	margin-top: 5px;
+}
+.c3 h1{
+	color: white;
+}
+.c3 p{
+	color:silver;
+}
+.c4{
+	background-color: rgba(159,22,0,0.5);
+	height: 80px;
+	line-height: 80px;
+	color: orange;
+	font-size: 30px;
+}
+.c4:hover{
+	background-color: rgba(159,22,0,1);
+}
+.c5{
+	width: 160px;
+	margin-left: 5px;
+	margin-top: 10px;
+	background: rgba(0,0,0,0.1);
+	color:orange;
+	border: 1px solid orange;
+}
+.c5:hover{
+	background-color: orange;
+}
+.c6{
+	width: 100%;
+	background: url(../czimg/3.png);
+	background-position: -150px;
+	height: 600px;
+	margin-top: 5px;
+}
+.c6 h1{
+	color: white;
+	font-weight: 800;
+	font-size: 50px;
+}
+.c6 p{
+	margin-top: 30px;
+	color: seashell;
+}
+.c6 button{
+	width: 200px;
+	height: 50px;
+	
+	color: orange;
+	border: 1px solid orange;
+	font-size: 18px;
+	background-color: rgba(0,0,0,0.1);
+}
+.c6 button:hover{
+	background-color: orange;
+}
+.container3{
+	border-top: 2px solid #3F2A22;
+	margin-top:-25px ;
+	background: #000000;
+	height: 424px;
+	width: 1920px;
+}
+.col-lg-5{
+	margin-top: 50px;
+}
+.col-lg-4{
+	margin-top: 50px;
+}
+.col-lg-5 span{
+	color: orange;
+	display: block;
+	margin-left:50px;
+	float:left
+}
+.col-lg-5 span a{
+	color: silver;
+	text-decoration: none;
+}
+.col-lg-5 span a:hover{
+	color: white;
+}
+.col-lg-4 span{
+	color: white;
+	
+}
+.boss1{
+	margin-left: 200px;
+	margin-top: 50px;
+}
+.aa:hover{
+	color: white;
+}

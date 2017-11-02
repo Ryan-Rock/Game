@@ -1,0 +1,12 @@
+body{
+	background: url(../img/login1.png) no-repeat;
+	background-position:-200px 0px ;
+	height: 1300px;
+}
+.login{
+	background: rgba(32,38,47,0.8);
+	margin-top: 30px;
+}
+.login input ,.login p,.login select{
+	margin-top: 10px;
+}
